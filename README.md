@@ -1,4 +1,4 @@
-Flight Dela analysis
+Flight Delay analysis
 # ✈️ Flight Delay Analysis
 
 This project focuses on analyzing **flight delay patterns** using a dataset of commercial flights. The goal is to identify key reasons for delays, trends across time and geography, and performance metrics of different airlines and airports. Tools used include **Python**, **Pandas**, **Matplotlib**, and **Seaborn**.
